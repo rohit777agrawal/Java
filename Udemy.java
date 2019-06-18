@@ -1,4 +1,4 @@
-
+// Helps to print square shaped star.
 // fun and weird program ? Skip it
 // Change number to words 
 // connected to above //  reverse the number 
@@ -14,6 +14,7 @@ public class Udemy {
 		printSquareStar(5);
 	}	
 	
+	// Helps to print square shaped star.
 	public static void printSquareStar(int number) {
         if (number < 5) {
             System.out.println("Invalid Value");
