@@ -1,5 +1,8 @@
 # Java
 
+# ExtraCredit.java
+    This program helped me to learn about do-while loop.
+    It shows the odd number as many of user want to see.
 # ForStatement.java
     This program helped me to learn For statement and use it in different application. 
 # Integers.java
