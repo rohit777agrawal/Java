@@ -1,5 +1,8 @@
 # Java
 
+# Structure.java
+    This program is very basic. To print something on console. 
+    Prints a beautiful stucture.
 # Switch.java
     Program is designed to learn how switch loop works.
     The main method calls a printDayOfTheWeek method to show which day is it.
