@@ -1,5 +1,7 @@
 # Java
 
+# Integers.java
+    This program ask for two integers and finds out number of integers between them and display them.
 # Structure.java
     This program is very basic. To print something on console. 
     Prints a beautiful stucture.
