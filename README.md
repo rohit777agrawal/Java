@@ -1,5 +1,8 @@
 # Java
 
+# DoWhileLoop.java
+    This program helped me to learn about do-while loop.
+    It checks if the first and last letter of word is same or not. 
 # EggBasket.java
     This program helped me to learn about printing something on console.
     It prints number of eggs in baskets.
