@@ -1,5 +1,8 @@
 # Java
 
+# EggBasket.java
+    This program helped me to learn about printing something on console.
+    It prints number of eggs in baskets.
 # ExtraCredit.java
     This program helped me to learn about do-while loop.
     It shows the odd number as many of user want to see.
