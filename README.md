@@ -1,5 +1,7 @@
 # Java
 
+# ClassAverage.java 
+    This basic program finds the class average score.
 # fruitStand.java 
     This program ask for which fruit do you want to buy and how much. It tells you the total cost.
     Helped me to practice do-while loop.
