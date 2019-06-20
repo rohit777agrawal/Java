@@ -1,5 +1,13 @@
 # Java
 
+# fruitStand.java 
+    This program ask for which fruit do you want to buy and how much. It tells you the total cost.
+    Helped me to practice do-while loop.
+# Divide.java
+    This basic program asks for numerator and denominator to divide.
+    Excludes zero from the denominator. 
+# FindHigestScore.java
+    This program finds the highest score of the students.
 # DoWhileLoop.java
     This program helped me to learn about do-while loop.
     It checks if the first and last letter of word is same or not. 
